@@ -1,0 +1,6 @@
+module bases
+BaseButton 1.0 BaseButton.qml
+BaseMenu 1.0 BaseMenu.qml
+BaseNotification 1.0 BaseNotification.qml
+BaseTextField 1.0 BaseTextField.qml
+BaseToolTip 1.0 BaseToolTip.qml

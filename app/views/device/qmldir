@@ -1,0 +1,6 @@
+module device
+DeviceDialog 1.0 DeviceDialog.qml
+DeviceItem 1.0 DeviceItem.qml
+DeviceList 1.0 DeviceList.qml
+DevicePanel 1.0 DevicePanel.qml
+PortMenu 1.0 PortMenu.qml

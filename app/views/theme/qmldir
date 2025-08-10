@@ -1,0 +1,5 @@
+module theme
+Color 1.0 Color.qml
+ColorSet 1.0 ColorSet.qml
+Scheme 1.0 Scheme.qml
+singleton Theme 1.0 Theme.qml
